@@ -59,11 +59,6 @@ To help, I stepped in to create a **simple and cost-effective website** hosted e
 
 ---
 
-## 📸 Optional Screenshot
-*(You can add a screenshot of your hosted website or S3 bucket setup here)*
-
----
-
 ## 🚀 Future Improvements
 - Integrate **Amazon Route 53** for a custom domain.
 - Add **Amazon CloudFront** for global content delivery and caching.
@@ -76,7 +71,7 @@ To help, I stepped in to create a **simple and cost-effective website** hosted e
 **Joy Imarah**  
 _Cloud & DevOps Enthusiast | AWS Learner_  
 📍 Nigeria  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/joy-imarah)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/joy-imarah-382b06260)  
 
 ---
 
